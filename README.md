@@ -15,8 +15,7 @@ An efficient Python-based log analysis tool that processes and extracts key insi
 
 ## 🔧 Requirements
 
-- Python 3.x
-- `pandas` (for handling CSV export)
+- Python 3.10.6
 
 ### To install dependencies, use the following command:
 
